@@ -5,9 +5,9 @@
 }
 
 body {
-  gap: 32px;
   display: flex;
   justify-content: space-around;
+  gap: 32px;
   height: 100vh;
   align-items: center;
   background-color: darkgrey;
