@@ -8,11 +8,13 @@ body {
   display: flex;
   justify-content: space-around;
   height: 100vh;
+  gap: 32px;
   align-items: center;
   background-color: darkgrey;
 }
 
 .card {
+  border: 2px solid red;
   position: relative;
   display: inline-block;
   width: 400px;
